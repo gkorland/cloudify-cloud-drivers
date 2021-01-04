@@ -12,7 +12,7 @@
 		<complier.target-version>1.6</complier.target-version>
 		<cloudifyVersion>2.6.1-SNAPSHOT</cloudifyVersion>
 		<openspacesVersion>9.6.0-SNAPSHOT</openspacesVersion>
-		<junitVersion>4.8.2</junitVersion>
+		<junitVersion>4.13.1</junitVersion>
 		<cloudify.home>${env.CLOUDIFY_DIR}</cloudify.home>
 	</properties>
 
